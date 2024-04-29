@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-stratus-red-team [![Build](https://github.com/vthiery/asdf-stratus-red-team/actions/workflows/build.yml/badge.svg)](https://github.com/vthiery/asdf-stratus-red-team/actions/workflows/build.yml) [![Lint](https://github.com/vthiery/asdf-stratus-red-team/actions/workflows/lint.yml/badge.svg)](https://github.com/vthiery/asdf-stratus-red-team/actions/workflows/lint.yml)
+# asdf-stratus-red-team [![Build](https://github.com/asdf-community/asdf-stratus-red-team/actions/workflows/build.yml/badge.svg)](https://github.com/asdf-community/asdf-stratus-red-team/actions/workflows/build.yml) [![Lint](https://github.com/asdf-community/asdf-stratus-red-team/actions/workflows/lint.yml/badge.svg)](https://github.com/asdf-community/asdf-stratus-red-team/actions/workflows/lint.yml)
 
 [stratus-red-team](https://stratus-red-team.cloud/) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -24,7 +24,7 @@ Plugin:
 ```shell
 asdf plugin add stratus-red-team
 # or
-asdf plugin add stratus-red-team https://github.com/vthiery/asdf-stratus-red-team.git
+asdf plugin add stratus-red-team https://github.com/asdf-community/asdf-stratus-red-team.git
 ```
 
 stratus-red-team:
@@ -50,8 +50,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/vthiery/asdf-stratus-red-team/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/asdf-community/asdf-stratus-red-team/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Vincent Thiery](https://github.com/vthiery/)
+See [LICENSE](LICENSE)
